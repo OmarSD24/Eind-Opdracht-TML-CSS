@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animal Facts - Cheetah</title>
+    <link rel="stylesheet" href="/CSS/CSS/Fishes.css">
+</head>
+<body>
+    
+    <header class="header">
+        <h1>Animal Facts</h1>
+        <nav class="navbar">
+            <a href="/HTML/Animals">Home</a>
+            <a href="/HTML/About.html">About</a>
+            <a href="/HTML/Animals">Animals</a>
+            
+        </nav>
+    </header>
+
+    
+    <main class="content">
+        <section class="hero">
+            <img src="/images/Great white shark banner image.jpg" alt="Cheetah licking her cub" class="hero-img">
+            <h2 class="hero-title"><span class="grey-blue">Great</span> <span class="white-underside">White</span> <span class="slate-gray">Sharks</span></h2>
+        </section>
+
+        
+        <section class="facts">
+            <h3>Fast Facts about Great White Sharks</h3>
+            <div class="fact-card">
+                <h4>Keen Senses</h4>
+                <p>Highly developed senses making it an effective predator. Detects blood from miles away. </p>
+            </div>
+            <div class="fact-card">
+                <h4>Warm-blooded Adaptation</h4>
+                <p>Has a unique warm-blooded adaptation called regional endothermy.</p>
+            </div>
+            <div class="fact-card">
+                <h4>Diet</h4>
+                <p>They are apex predators, primarily feeding on fish, seals, sea lions, and even small whales.</p>
+            </div>
+            <div class="fact-card">
+                <h4>Breaching Behavior</h4>
+                <p>Known for their dramatic breaches, they can leap out of the water to catch fast-moving prey.</p>
+            </div>
+
+            <div class="Summary">
+                <h1>Summary</h1>
+                <p>The Great White Shark (Carcharodon carcharias) is a large, powerful predator that can grow up to 20 feet long and weigh over 4,000 pounds. Found in coastal and offshore waters worldwide, it primarily feeds on fish, seals, and sea lions. With exceptional senses, including the ability to detect blood from miles away and sense movement through electroreception, it is highly adept at hunting. Unlike most fish, it can regulate its body temperature, allowing it to thrive in various water temperatures. Known for breaching the water to catch prey, great whites can live up to 70 years. Although classified as vulnerable due to threats like fishing and habitat loss, they remain a vital part of ocean ecosystems. Despite their reputation, great whites rarely attack humans, and most encounters are due to mistaken identity.</p>
+            </div>
+
+        </section>
+        <img class="majestic" src="/images/Great-White-Shark-stalks-diver-header.jpg" alt="Majestic Cheetah" height="600px" width="600px">
+        
+        
+    </main>
+
+   
+    
+    <footer class="footer">
+        <p>© 2024 Animal Facts. All rights reserved.</p>
+    </footer>
+</body>
+</html>

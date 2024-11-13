@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animals</title>
+    <link rel="stylesheet" href="/CSS/CSS/Homepage.css">
+</head>
+
+<body>
+    <div class="Title">
+        <h1>Welcome to Planet Instinct's</h1>
+    </div>
+
+    <nav class="navbar">
+        <ul>
+            <li><a href="/HTML/Animals">Home</a></li>
+            <li><a href="/HTML/About.html">About</a></li>
+            <li><a href="/HTML/Animals">Animals</a></li>
+        </ul>
+    </nav>  
+
+    <section class="hero">
+        <h2>Explore and learn about various types of animals</h2>
+    </section>
+
+    <section>
+        <h1 id="animal_types">Animal Types</h1>
+
+        <div class="gallery">
+            <div class="card">
+                <a href="/HTML/Cheetahs">
+                    <img src="/images/Mammals.jpg" alt="Cheetahs">
+                    <div class="card-content">
+                        <h3>Cheetahs</h3>
+                        <p>See More</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="/HTML/Birds">
+                    <img src="/images/congobird banner image.jpg" alt="Congo African Grey Bird">
+                    <div class="card-content">
+                        <h3>Congo African Grey Bird</h3>
+                        <p>See More</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="/HTML/Reptiles">
+                    <img src="/images/Cobra Banner Image.jpg" alt="King Cobra">
+                    <div class="card-content">
+                        <h3>King Cobra</h3>
+                        <p>See More</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="/HTML/Amphibians">
+                    <img src="/images/mimic-poison-frog.jpg" alt="Mimic Poison Frog">
+                    <div class="card-content">
+                        <h3>Mimic Poison Frog</h3>
+                        <p>See More</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="card">
+                <a href="/HTML/Fishes">
+                    <img src="/images/Great white shark banner image.jpg" alt="Great White Shark">
+                    <div class="card-content">
+                        <h3>Great White Shark</h3>
+                        <p>See More</p>
+                    </div>
+                </a>
+            </div>
+
+
+            <div class="card">
+                <a href="/HTML/Animal-of-the-year.html">
+                    <img src="/images/Winner.jpg" alt="See which animal won animal of the year">
+                    <div class="card-content">
+                        <h3>Animal of the year</h3>
+                        <p>See More</p>
+                    </div>
+                </a>
+            </div>
+
+            
+        </div>
+    </section>
+</body>
+</html>
